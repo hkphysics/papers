@@ -7,7 +7,7 @@ backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
-# Integration of AI Large Language Models in High Energy Physics Research Workflow (A Computational Theoretican Approach)
+# Integration of AI Large Language Models in High Energy Physics Research Workflow
 
 Joseph C Wang (joequant@hkphysics.hk) (joequant wechat)
 

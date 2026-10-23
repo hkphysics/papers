@@ -1,0 +1,11 @@
+{
+  "name": "marp-pdf-generator",
+  "version": "1.0.0",
+  "description": "Generate PDFs from Marp markdown files",
+  "scripts": {
+    "pdf": "marp slides.md -o slides.pdf --allow-local-files"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "latest"
+  }
+}

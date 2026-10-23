@@ -7,8 +7,7 @@ backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
-# **Integration of AI Large Language Models in High Energy Physics Research Workflows**
-# ** A Theoretical Approach **
+# Integration of AI Large Language Models in High Energy Physics Research Workflow (A Computational Theoretican Approach)
 
 Joseph C Wang (joequant@hkphysics.hk) (joequant wechat)
 
@@ -23,8 +22,8 @@ Hong Kong Institute of Physics
 # All source code is at
 
 * https://github.com/hkphysics/ai-server
-* cacher
-* key4hep-container
+* https://github.com/hkphysics/papers (see cepc2026/examples)
+
 * BSD Licensed
 
 ---
@@ -38,7 +37,7 @@ of researchers
 
 * Gap between researchers and general public
 
-* Gap between different domains
+* Gap between different domains (experimental / theoretical )
 
 ---
 
@@ -71,7 +70,7 @@ of researchers
 
 * Github - hkphysics/ai-server
 * Intended to be relatively easy to install - docker server
-* Jupyter engine and Openwebui
+* Jupyter engine and Openwebui with shared internal workspace
 * A lot of work with Jupyter AI team (Amazon)
 * Three AI instances (Academic, Commercial, Personal)
 * Openwebui / Jupyter
@@ -115,9 +114,10 @@ of researchers
 
 ---
 
-# Findings
+# Findings - Open the pod bay doors Hal
+* 1960s Star Trek show
 * The models are good enough. The problem is the agents
-* Thinking tags are import
+* Thinking tags are important.  Voice is terrible.  Shared data systems
 * Local versus cloud
   * Local models are very good at one shot question
   * Coding requires a lot of context which eats tokens
